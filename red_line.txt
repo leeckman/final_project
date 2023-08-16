@@ -1,0 +1,9 @@
+model préentrainé
+
+
+refeed model avec flux video perso (pour continuer à fine tuner le modèle existant)
+modèle différent en fonction des cultures/races à travailler
+
+pour aveugle, gaming, parental avec bébé,
+
+pca + isol forest image
